@@ -12,7 +12,7 @@
 // @match       *://linksloot.net/s?*
 // @grant       none
 // @version     2.1
-// @author      Babyhamsta
+// @author      Baobg1
 // @description Bỏ qua các bước trung gian của Lootlabs - Released 5/12/2025
 // @license     MIT
 // @run-at      document-start
